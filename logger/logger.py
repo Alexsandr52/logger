@@ -1,4 +1,3 @@
-from cgi import test
 import datetime
 import os
 import shutil
